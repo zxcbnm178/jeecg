@@ -7,10 +7,10 @@
  */
 package org.jeecgframework.core.common.hibernate.dialect;
 
-import java.sql.Types;
-
 import org.hibernate.dialect.SQLServer2008Dialect;
 import org.hibernate.type.StringType;
+
+import java.sql.Types;
  
 
 /**
